@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "title": "Marco Sanchez",
+    "description": ""
+  },
+  "brand": {
+    "initials": "MSK",
+    "name": "MARCO SANCHEZ KORDE",
+    "role": "DECANO"
+  },
+  "hero": {
+    "eyebrow": "Tarjeta profesional digital",
+    "name": "MARCO SANCHEZ KORDES",
+    "role": "DECANO",
+    "tagline": "10 DE RECIONES PUBLICAS Y 8 INGENIEROS",
+    "stats": [
+      {
+        "value": "20",
+        "label": "Años de trayectoria"
+      },
+      {
+        "value": "15",
+        "label": "Títulos / certificaciones"
+      },
+      {
+        "value": "10",
+        "label": "Casos / proyectos atendidos"
+      }
+    ],
+    "ctaPrimaryLabel": "Agendar una consulta",
+    "ctaSecondaryLabel": "Descargar CV (PDF)",
+    "photoNote": "Espacio para fotografía profesional — retrato vertical",
+    "photoUrl": "/uploads/hero-photo.jpg?v=1786680802599",
+    "cvUrl": "/uploads/cv.pdf?v=1786681623841"
+  },
+  "perfil": {
+    "lede": "[Frase de apertura que resuma quién es y qué lo distingue en su campo.]",
+    "paragraphs": [
+      "[Párrafo de presentación: formación, especialidad y el tipo de problemas que resuelve para sus clientes o su institución. Dos o tres oraciones son suficientes.]",
+      "[Segundo párrafo opcional: un logro, enfoque de trabajo o valor diferencial concreto. Termina con lo que el visitante puede esperar al contactarlo.]"
+    ],
+    "badges": [
+      "[Especialidad 1]",
+      "[Especialidad 2]",
+      "[Especialidad 3]",
+      "[Especialidad 4]"
+    ]
+  },
+  "trayectoria": [
+    {
+      "year": "[AAAA]",
+      "title": "[Título / grado obtenido]",
+      "place": "[Institución educativa]",
+      "tag": "[Ciudad, país]"
+    },
+    {
+      "year": "[AAAA]",
+      "title": "[Título / grado obtenido]",
+      "place": "[Institución educativa]",
+      "tag": "[Ciudad, país]"
+    },
+    {
+      "year": "[AAAA]",
+      "title": "[Certificación o reconocimiento]",
+      "place": "[Entidad que lo otorga]",
+      "tag": "[Ciudad, país]"
+    },
+    {
+      "year": "[AAAA]",
+      "title": "[Cargo o rol relevante]",
+      "place": "[Organización]",
+      "tag": "[Vigente]"
+    }
+  ],
+  "servicios": [
+    {
+      "icon": "⚖",
+      "title": "[Área de servicio 1]",
+      "description": "[Descripción breve de una línea sobre en qué consiste y a quién está dirigido.]",
+      "bullets": [
+        "[Detalle 1]",
+        "[Detalle 2]"
+      ]
+    },
+    {
+      "icon": "📜",
+      "title": "[Área de servicio 2]",
+      "description": "[Descripción breve de una línea sobre en qué consiste y a quién está dirigido.]",
+      "bullets": [
+        "[Detalle 1]",
+        "[Detalle 2]"
+      ]
+    },
+    {
+      "icon": "🏛",
+      "title": "[Área de servicio 3]",
+      "description": "[Descripción breve de una línea sobre en qué consiste y a quién está dirigido.]",
+      "bullets": [
+        "[Detalle 1]",
+        "[Detalle 2]"
+      ]
+    },
+    {
+      "icon": "🤝",
+      "title": "[Área de servicio 4]",
+      "description": "[Descripción breve de una línea sobre en qué consiste y a quién está dirigido.]",
+      "bullets": [
+        "[Detalle 1]",
+        "[Detalle 2]"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "[¿Pregunta frecuente número uno?]",
+      "answer": "[Respuesta breve y directa. Idealmente incluye el medio de contacto preferido y el tiempo de respuesta esperado.]"
+    },
+    {
+      "question": "[¿Pregunta frecuente número dos?]",
+      "answer": "[Respuesta breve y directa, dos o tres oraciones como máximo.]"
+    },
+    {
+      "question": "[¿Pregunta frecuente número tres?]",
+      "answer": "[Respuesta breve y directa, dos o tres oraciones como máximo.]"
+    },
+    {
+      "question": "[¿Pregunta frecuente número cuatro?]",
+      "answer": "[Respuesta breve y directa, dos o tres oraciones como máximo.]"
+    }
+  ],
+  "contacto": {
+    "whatsapp": "71336455",
+    "email": "[correo@dominio.com]",
+    "location": "Santa Cruz,  Bolivia",
+    "ctaLabel": "Escribir por WhatsApp",
+    "social": [
+      {
+        "label": "LinkedIn",
+        "url": ""
+      },
+      {
+        "label": "Instagram",
+        "url": ""
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/marcos.sanchezkordes"
+      }
+    ]
+  },
+  "footer": {
+    "note": "Sitio personal. Editable desde /admin."
+  }
+}
